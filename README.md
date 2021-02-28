@@ -10,8 +10,7 @@ I am a computer engineering student at the Shahid Beheshti University.
 
 [![](https://img.shields.io/badge/-ghaseminarges79@gmail.com-black?style=for-the-badge&logo=gmail)](mailto:ghaseminarges79@gmail.com)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNargesNN&layout=compact" alt="NNargesNN" /> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NNargesNN&layout=compact&langs_count=8)](https://github.com/NNargesNN/github-readme-stats)
 
-
-[![Narges's github stats](https://github-readme-stats.vercel.app/api?username=NNargesNN&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats &count_private=true)
+[![NNargesNN's github stats](https://github-readme-stats.vercel.app/api?username=NNargesNN&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
