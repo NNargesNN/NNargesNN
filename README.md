@@ -14,4 +14,4 @@ I am a computer engineering student at the Shahid Beheshti University.
 
 
 
-[![Narges's github stats](https://github-readme-stats.vercel.app/api?username=NNargesNN&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Narges's github stats](https://github-readme-stats.vercel.app/api?username=NNargesNN&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats &count_private=true)
