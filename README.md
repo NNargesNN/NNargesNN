@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I am a computer engineering student at the Shahid Beheshti University. 
+I am a computer engineering student at Shahid Beheshti University. 
 
 
 
